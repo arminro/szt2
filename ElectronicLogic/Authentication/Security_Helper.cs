@@ -1,6 +1,4 @@
-﻿// <copyright file="Security_Helper.cs" company="Szt2Company">
-// Copyright (c) Szt2Company. All rights reserved.
-// </copyright>
+// based on https://stackoverflow.com/questions/18392538/securestring-to-byte-c-sharp
 
 namespace Authentication
 {
